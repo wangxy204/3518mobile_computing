@@ -1,0 +1,7 @@
+In the LogEntry.java file, the method stores all the tag, log and time data and save them under the logs under the client number in the inbox section in the firebase database. For the backend part, In trhe MessageProcessServelet.java file, init() method will set up all the configurations and connect the Firebase database and create listener to make sure that the number of working servlet is only one. In additon, a new listener is required when the client application is writing a new log to the servlet. 
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+For the client side, the FirebaseLogger is for write the logs of user to the Firebase database. The requestloger() method will be called when there is a new user log in the client and then this method create a entry to the requestlogger and then set up the listenter to make sure that the application can give feedback when the backend has any responses.

@@ -1,0 +1,1 @@
+Before we use the Google cloud service, we need to set up the Google cloud configurations depend on the requirement of Google Cloud. Then we can push and fetch data depends on the requirement of cliend and backend.
